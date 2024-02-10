@@ -1,0 +1,10 @@
+{
+  "name": "GSGameOfLife3D-Editor",
+  "references": [
+    "GSGameOfLife3D"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
